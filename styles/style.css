@@ -41,19 +41,25 @@ p {
   background-color: #5DBCD2;
 }
 
+.bottom-social {
+  margin: 0 auto;
+}
 
+h2 ~ p {
+  font-size: 1.2em;
+}
 
+.text-change {
+  font-size: 1.2em;
 
+}
 
+.card-margin {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 
-  
-
-  .card-margin {
-      margin-top: 20px;
-      margin-bottom: 20px;
-  }
-
-  .topbutton {
+.topbutton {
     width:100px;
     border:2px solid #ccc;
     background:#f7f7f7;
@@ -70,4 +76,4 @@ p {
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     -khtml-border-radius: 5px;
-    }
+}
