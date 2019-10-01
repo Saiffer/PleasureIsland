@@ -1,0 +1,73 @@
+body {
+    background: url('../images/bg-img.jpg') no-repeat top center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+.logo {
+  text-shadow: 1px 1px 1px #dee5ed, 2px 2px 2px #111;
+}
+
+.logo h1, h2 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2em;
+  color: #5DBCD2;
+}
+
+h2 {
+  text-align: center;
+}
+
+.nav-link {
+  font-family: 'Permanent Marker', cursive;
+  color: #5DBCD2;
+}
+
+h5 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding: 10px;
+}
+
+
+.btn-default {
+  background-color: #5DBCD2;
+}
+
+
+
+
+
+
+  
+
+  .card-margin {
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+
+  .topbutton {
+    width:100px;
+    border:2px solid #ccc;
+    background:#f7f7f7;
+    text-align:center;
+    padding:10px;
+    position:fixed;
+    bottom:50px;
+    right:50px;
+    cursor:pointer;
+    color:#333;
+    font-family:verdana;
+    font-size:12px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    }
